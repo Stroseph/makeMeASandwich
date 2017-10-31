@@ -1,0 +1,9 @@
+// A play off the sandwhich making programming logic example.
+
+#include <stdio.h>
+
+int main ()
+{
+	
+	return 0;
+}
